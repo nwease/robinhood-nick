@@ -1,5 +1,7 @@
 import './App.css';
 import Header from './components/Header';
+import Feed from './components/Feed';
+import Stats from './components/Stats';
 
 function App() {
     return (
@@ -9,7 +11,11 @@ function App() {
             </div>
 
             <div className='app__body'>
-
+                <div className='app__container'>
+                    <Feed />
+                    <Stats />
+                {/*STATS*/}
+                </div>
             </div>
         </div>
     );
