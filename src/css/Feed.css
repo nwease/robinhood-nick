@@ -1,21 +1,21 @@
 .feed {
-    border: 1px solid orange;
     flex: 0.7;
     color: #fff;
 }
 
-.feedContainer {
-
-}
-
 .feed__chartSection {
-
+    display: flex;
+    flex-direction: column;
 }
 
-.feed__portfolio {
-
+.feed__portfolio h1 {
+    margin: 0;
 }
 
-/*.feed__portfolio > h1 {*/
-/*    margin: 0;*/
-/*}*/
+.feed__portfolio p {
+    margin: 0;
+}
+
+.feed__chart {
+    width: 100%;
+}
