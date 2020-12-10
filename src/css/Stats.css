@@ -24,10 +24,10 @@
     font-weight: 500;
 }
 
-.stats__content {
-    font-size: 13px;
+.stats__list {
+    border-top: 1px solid #42494d;
 }
 
-.stats__row {
-
+.stats__content {
+    font-size: 13px;
 }

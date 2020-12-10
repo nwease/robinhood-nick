@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1f77176-6d24-4514-9883-b2c500c56126" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/StatsRow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/StatsRow.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Chart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Chart.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Stats.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Stats.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/Stats.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/Stats.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
       <updated>1607113525753</updated>
       <workItem from="1607113542823" duration="3203000" />
       <workItem from="1607334990753" duration="5553000" />
-      <workItem from="1607420515477" duration="19307000" />
+      <workItem from="1607420515477" duration="21381000" />
     </task>
     <servers />
   </component>
