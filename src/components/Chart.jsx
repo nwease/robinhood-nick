@@ -224,7 +224,7 @@ function Chart({casesType}) {
     }, []);
 
     return (
-        <div>
+        <div className='chart'>
             {
                 data?.length > 0 && (
                     <Line
