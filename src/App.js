@@ -14,7 +14,6 @@ function App() {
                 <div className='app__container'>
                     <Feed />
                     <Stats />
-                {/*STATS*/}
                 </div>
             </div>
         </div>
