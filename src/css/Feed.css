@@ -56,6 +56,20 @@
     margin-top: 60px;
 }
 
-.feed__popular__badges {
+.feed__popular__section > p {
+    font-weight: bold;
+    color: orange;
+}
 
+.feed__popular__badges {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.feed__popular__badges .topic__badge {
+    border: 1px solid #31363A;
+    background-color: transparent;
+    color: #fff;
+    margin-right: 8px;
+    margin-bottom: 8px;
 }
